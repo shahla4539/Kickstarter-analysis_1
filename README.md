@@ -12,4 +12,6 @@ Module One Challenge
 ##**Analysis And Challenges**
    Firstly, , I added filter in pledge, country, outcomes, and goal columns so that Louise project is going to be in US she can view the data as per her need.I added some conditional formatting in the **outcome** column where successful=green, failed=red,live=blue, and canceled=yellow to provide **visual presentation** of the data in the worksheet at a glance. 
    
+   I created a **Percentage Funded** column so that Louise can easily interpret the data and quickly determine how close a campaign came to 'reaching' and in some cases 'exceeding' their funding goal.Again I gave the help of conditional formating i made **Maximum** percentage funded color **blue** and moving towards **Minimum** percentage **red**.
+   
    
