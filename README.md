@@ -16,6 +16,6 @@ Module One Challenge
    I created a **Percentage Funded** column so that Louise can easily interpret the data and quickly determine how close a campaign came to 'reaching' and in some          cases'exceeding' their funding goal.Again I with the help of conditional formating I made **Maximum** percentage funded color **blue** and moving towards **Minimum**    percentage **red**.
    
 #**Average Donation**
-I added 
+   I also added "Average Donation" column. This column will help Louise set up her incentive by first determinig how much money people have pledged historically. 
    
    
