@@ -28,7 +28,7 @@ Module One Challenge
    I choose Outcomes to present the values based on the Parent Category. Also added Country in filter to enable Louise glance on the information country wise as well.    With the help of this **Pivot Chart**, Louise can easily see which Parent Category performed well and which ones did not. She can use filter added in the chart to      view the specific details of her desire that is if she wants to see the details only for theater she can choose from Rows **Theaer** only and if she wants to see      specifically how theater performs in US, Loise can choose **US** from the country filter. 
     
 ### Subcategory
-    
+   As Lousie was creating a Play not the theater, I used the data from **Subcategory**  to create another **Pivot Table** and **Chart** that will help Louise to 
     
  
  
