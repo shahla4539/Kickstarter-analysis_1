@@ -30,6 +30,9 @@ Module One Challenge
     Also with the help of 'Date Launched Conversion" column i extracted the year of the projects which can give a quick review to Louse about how many project took         place in same years. 
    
 ### Analysis of Outcomes Based on Launched Date
+   To provide Louse with additional visuailization of the Data for finding how well all the campaigns performed, I created a **Pivot Table** and on that values I also prepared a **Graph**. 
+   For the pivot talble 
+   
 
    
    
