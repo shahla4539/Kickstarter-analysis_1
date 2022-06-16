@@ -18,11 +18,21 @@ Module One Challenge
  ### Average Donation
     I also added "Average Donation" column. This column will help Louise set up her incentive by first determinig how much money people have pledged historically. 
    
-## Challenges
+# Challenges
 
-### Categories Challenge 
-    Their were two challenges for me to make the data more readable. The first one was the **Category and Subcategory** was merged togather, therefore initially it was     hard to be very specific with the information i want to provide. To overcome that hurdle I split them into two columns as **Parent Category** and **Subcategory**.
-   
+## Categories Challenge 
+    Their were two challenges for me to make the data more readable. The first one was the **Category and Subcategory** was merged togather, therefore initially it was     hard to be very specific with the information I want to provide. To overcome that hurdle I split them into two columns as **Parent Category** and **Subcategory**.
+    Based on these categored I created a visual presentation in form of **Pivot Table** and **Chart**.
+    
+### Parent Category 
+   I choose Outcomes to present the values based on the Parent Category. Also added Country in filter to enable Louise glance on the information country wise as well.    With the help of this **Pivot Chart**, Louise can easily see which Parent Category performed well and which ones did not. She can use filter added in the chart to      view the specific details of her desire that is if she wants to see the details only for theater she can choose from Rows **Theaer** only and if she wants to see      specifically how theater performs in US, Loise can choose **US** from the country filter. 
+    
+### Subcategory
+    
+    
+ 
+ 
+ 
 ### Time Format Challenge
     The Second challenge was the time. The data was orignally using **Unix timestamp**, which was not human readable format. By utilizing the converting formula I         changed the time format into human readable and added two more columns as **Date Launced Conversion** and **Date Ended Conversion**. 
    
