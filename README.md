@@ -10,6 +10,8 @@ Module One Challenge
     I used Excel to organize, sort and analyze the crowdfunding data to generate the insight that will help Louise understand the campaign from start to finish and she     will be able to compare her campaign with other successful ones in the same category, and hopefully that altogather help Lousie in making smart decisions. 
    
  # Analysis And Challenges 
+ 
+### Organize And Sorting Data
     Firstly, , I added filter in pledge, country, outcomes, and goal columns so that Louise project is going to be in US she can view the data as per her need.I added     some conditional formatting in the **outcome** column where successful=green, failed=red,live=blue, and canceled=yellow to provide **visual presentation** of the       data in the worksheet at a glance. 
    
 ### Percentage Funded
@@ -40,8 +42,7 @@ Module One Challenge
     Also with the help of 'Date Launched Conversion" column i extracted the year of the projects which can give a quick review to Louse about how many project took         place in same years. 
    
 ### Analysis of Outcomes Based on Launched Date
-   To provide Louse with additional visuailization of the Data for finding how well all the campaigns performed, I created a **Pivot Table** and on that values I also prepared a **Graph**. 
-   For the pivot talble 
+   To provide Louse with additional visuailization of the Data for finding how well all the campaigns performed based on the Launched Date.  
    
 
    
