@@ -76,11 +76,17 @@ Lastly, I organized a data to give Louise information on outcomes based on the G
 
 ### Challenges and Difficulties Encountered
 In thsi Kickstarter dataset, there were few challenges like the Unix timestamp format was used. To encounter that I used the conversion formula i:e 
-=(((J2/60)/60)/24)+DATE(1970,1,1)
-The Category and Subcategoy were mergeg. I used Excel tool to split them.
+**=(((J2/60)/60)/24)+DATE(1970,1,1)**
+The Category and Subcategoy were mergeg. I used Excel tool **Convert text to Column Wizard** to split them.
+The new column (Average Donation) I created had errors, so I fixed them in order to present a clean analysis to Louise. For that i used Excel IFERROR formula,
+ **=IFERROR(value,value_if_error)**
+The whole dataset has a lot of unrelevent information. I added multiple filters to enable Louise search for her required information and also added visual presentation.
 
- The new column (Average Donation) I created had errors, so I fixed them in order to present a clean analysis to Louise. For that i used Excel IFERROR formula,
- =IFERROR(value,value_if_error)
+## Results
+Based on the whole analysis my finding are:
+Louise set budget for her play **Fever** is more than twice average successful Kickstarter goal.
+The best Month for her to launch her play is **June** based on the Analysis of Outcomes based on launch dates.
+
 
 
 
