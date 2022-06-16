@@ -69,6 +69,11 @@ Similarly, I saved this data in the new sheet and named it **Failed US Kickstart
 ### Descriptive Statistics
 I added another sheet **Descriptive Statistics** to show the calculation by using the data from the two new sheets Successful US Kickstarters and Failed US Kickstarters.I calculated Central Tendency that includes **Mean, Median, and Mode**, and comapred the Mean and median for each dataset's (the failed and successful "US" campaigns) goal and pledged columns. To help Louise for further analysis I measure the spread of the dataset that includes **range, variance, standard deviation, and quartiles**. These calculations helped Louise in realizing that she is asking for more than twice the average successful Kickstarter goal, which isn't great news for her campaign.
 
+## Outcomes Based On Goal
+Lastly, I organized a data to give Louise information on outcomes based on the Goal. For that I **Rearranged** the **Goal** by giving a range of $5000 in each row, and based on that I utilized **COUNTIFS** formula to pull the the data of Number Successful, Number Failed and Number Cancelled. I added a column for **Total Project** and also added **Percentages** of Number Successful, Number Failed and Number Canceled accordingly. I also create a line chart to visualize the relationship between the goal-amount ranges and the percentage of successful, failed, or canceled projects.
+
+![Outcomes Based On Goal](https://user-images.githubusercontent.com/105535250/174172136-21b563df-b1c9-4f0b-837e-998183136c55.png)
+
 
 
 
