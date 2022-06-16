@@ -36,13 +36,13 @@ Module One Challenge
  
  
 ### Time Format Challenge
-    The Second challenge was the time. The data was orignally using **Unix timestamp**, which was not human readable format. By utilizing the converting formula I         changed the time format into human readable and added two more columns as **Date Launced Conversion** and **Date Ended Conversion**. 
+    The Second challenge was the time. The data was orignally using **Unix timestamp**, which was not human readable format. By utilizing the converting formula I         changed the time format into human readable and added two more columns as **Date Created Conversion** and **Date Ended Conversion**. 
    
-## Year
-    Also with the help of 'Date Launched Conversion" column i extracted the year of the projects which can give a quick review to Louse about how many project took         place in same years. 
+## Years
+    Also, from the 'Date Created Conversion" column i extracted the years of the projects which can give a quick review to Louise about how many project took               place in same years. 
    
 ### Analysis of Outcomes Based on Launched Date
-   To provide Louse with additional visuailization of the Data for finding how well all the campaigns performed based on the Launched Date.  
+   Now that we already have the date range of each project I tried to provide Louise with additional visuailization of the Data for finding how well all the campaigns    performed based on the Launched Date. To do so, I created another Pivot Table and Chart. This time I used Line Chart to view the data. Line Charts are helpful when    trying to determine trends. Again I choose **Outcomes** to present the values on the basis od **Date Created Conversion** filtering by **Parent Category** and          **Years**.
    
 
    
