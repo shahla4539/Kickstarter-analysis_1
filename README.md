@@ -45,9 +45,14 @@ Module One Challenge
     Also, from the 'Date Created Conversion" column i extracted the years of the projects which can give a quick review to Louise about how many project took               place in same years. 
    
 ### Analysis of Outcomes Based on Launched Date
-   Now that we already have the date range of each project I tried to provide Louise with additional visuailization of the Data for finding how well all the campaigns    performed based on the Launched Date. To do so, I created another Pivot Table and Chart. This time I used Line Chart to view the data. Line Charts are helpful when    trying to determine trends. Again I choose **Outcomes** to present the values on the basis od **Date Created Conversion** filtering by **Parent Category** and          **Years**. This way Louise can view the trend on monthly basis as well as she can view the most relevant data by using the filter and setting it to theater. 
+   Now that we already have the date range of each project I tried to provide Louise with additional visuailization of the Data for finding how well all the campaigns    performed based on the Launched Date. To do so, I created another Pivot Table and Chart. This time I used Line Chart to view the data. Line Charts are helpful when    trying to determine trends. Again I choose **Outcomes** to present the values on the basis od **Date Created Conversion** filtering by **Parent Category** and          **Years**. This way Louise can view the trend on monthly basis as well as she can view the most relevant data by using the filter and setting it to theater. This      chart can also help her deciding on which month could be the best for her to launch her play.
    
    ![Theater Outcomes Based on the Launch Dates](https://user-images.githubusercontent.com/105535250/174157323-599f1c2c-b0b5-4205-88db-4a4160abf607.png)
+   
+ ## Edinburgh Research
+ Louise had the opportunity to attend and enjoy the five plays at **Edinburgh Festival**. To help her gather all the information I added a new sheet with a little research in it. Utilizing the VLOOKUP in excel, I organized the details of those five plays by pulling the name, blurb, goal, pledge and backer information and then added **Average Donation** column to help Lousie understand what was the **Goal** set for each project and how much people pledged in average. This research was done to add some quick knowledge of the similar projects happening outside US.
+ 
+ 
 
 
   
