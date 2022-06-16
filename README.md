@@ -83,7 +83,7 @@ The new column (Average Donation) I created had errors, so I fixed them in order
 The whole dataset has a lot of unrelevent information. I added multiple filters to enable Louise search for her required information and also added visual presentation.
 
 ## Results
-Based on the whole analysis my finding are:
+
 Louise set budget for her play **Fever** is more than twice average successful Kickstarter goal.
 The best Month for her to launch her play is **June** based on the Analysis of Outcomes based on launch dates.
 
