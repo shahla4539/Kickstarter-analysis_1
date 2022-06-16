@@ -74,6 +74,17 @@ Lastly, I organized a data to give Louise information on outcomes based on the G
 
 ![Outcomes Based On Goal](https://user-images.githubusercontent.com/105535250/174172136-21b563df-b1c9-4f0b-837e-998183136c55.png)
 
+### Challenges and Difficulties Encountered
+In thsi Kickstarter dataset, there were few challenges like the Unix timestamp format was used. To encounter that I used the conversion formula i:e 
+=(((J2/60)/60)/24)+DATE(1970,1,1)
+The Category and Subcategoy were mergeg. I used Excel tool to split them.
+
+ The new column (Average Donation) I created had errors, so I fixed them in order to present a clean analysis to Louise. For that i used Excel IFERROR formula,
+ =IFERROR(value,value_if_error)
+
+
+
+
 
 
 
