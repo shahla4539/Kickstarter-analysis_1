@@ -28,13 +28,16 @@ Module One Challenge
     
 ### Parent Category 
    I choose **Outcomes** to present the values based on the **Parent Category**. Also added **Country** in filter to enable Louise see the information country wise as    well. With the help of this **Pivot Chart**, Louise can easily analyze which Parent Category performed well and which ones did not. She can use filter added in the    chart to view the specific details of her desire that is if she wants to see the details only for theater she can choose from Rows **Theater** only and if she wants    to see specifically how theater performs in US, Loise can choose **US** from the country filter. I added this information in the new sheet and named it as **Parent    Category Statistics** in the work book.
+   
+   ![Parent Category Outcome](https://user-images.githubusercontent.com/105535250/174155268-958b014b-6b53-4ef2-b4df-b884a6af31a8.png)
+
     
 ### Subcategory
-   As Lousie was creating a Play not the theater, I used the data from **Subcategory**  to create another **Pivot Table** and **Chart** that will help Louise to focus    her analysis on the area that is more relevant to her project. To do this, I choose **Outcomes** to present the values based on the **Subcategory**. Also added        **Country** and **Parent Category** in filters. This will privilege her to view the details as she like.
+   As Lousie was creating a Play not the theater, I used the data from **Subcategory**  to create another **Pivot Table** and **Chart** that will help Louise to focus    her analysis on the area that is more relevant to her project. To do this, I choose **Outcomes** to present the values based on the **Subcategory**. Also added        **Country** and **Parent Category** in filters. This will privilege her to view the details as she like.  
     
- 
- 
- 
+![Subcategory Outcomes](https://user-images.githubusercontent.com/105535250/174155881-0c8ccb5b-adbd-4bd6-b376-dd6f5e7871b9.png)
+
+  
 ### Time Format Challenge
     The Second challenge was the time. The data was orignally using **Unix timestamp**, which was not human readable format. By utilizing the converting formula I         changed the time format into human readable and added two more columns as **Date Created Conversion** and **Date Ended Conversion**. 
    
