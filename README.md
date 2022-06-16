@@ -52,7 +52,7 @@ Now that we already have the date range of each project I tried to provide Louis
 Louise had the opportunity to attend and enjoy the five plays at **Edinburgh Festival**. To help her gather all the information I added a new sheet with a little research in it. Utilizing the VLOOKUP in excel, I organized the details of those five plays by pulling the name, blurb, goal, pledge and backer information and then added **Average Donation** column to help Lousie understand what was the **Goal** set for each project and how much people pledged in average. This research was done to add some quick knowledge of the similar projects happening outside US.
  
 ## Statistical Computations
-Statistics provide an unbiased view of the data and make conclusions based on the calculations and the real facts. To Help Louise deepen her analysis I started with filtering the Kickstarter data. 
+Statistics provide an unbiased view of the data and make conclusions based on the calculations and the real facts. To Help Louise deepen her analysis I started with filtering the Kickstarter data. I will Kickstarter campaigns for plays in the U.S. and compare the statistics for the campaigns that succeeded versus those that failed.
 
 ### Successful US Kickstarters
 Filter on subcategory for "plays."
@@ -67,7 +67,8 @@ Filter on outcome for "failed."
 Similarly, I saved this data in the new sheet and named it **Failed US Kickstarters**.
 
 ### Descriptive Statistics
-I added another sheet **Descriptive Statistics** to show the calculation by using the data from the two new sheets Successful US Kickstarters and Failed US Kickstarters.I calculated Central Tendency that includes **Mean, Median, and Mode**, of the data from Goal and Pledged column. To help Louise for further analysis I measure the spread of the dataset that includes range, variance, standard deviation, and quartiles.
+I added another sheet **Descriptive Statistics** to show the calculation by using the data from the two new sheets Successful US Kickstarters and Failed US Kickstarters.I calculated Central Tendency that includes **Mean, Median, and Mode**, and comapred the Mean and median for each dataset's (the failed and successful "US" campaigns) goal and pledged columns. To help Louise for further analysis I measure the spread of the dataset that includes **range, variance, standard deviation, and quartiles**.
+
 
 
 
