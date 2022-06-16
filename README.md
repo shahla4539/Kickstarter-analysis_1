@@ -24,10 +24,11 @@ Module One Challenge
    Their were two challenges for me to make the data more readable. The first one was the **Category and Subcategory** was merged togather, therefore initially it was      hard to be very specific with the information i want to provide. To overcome that hurdle I split them into two columns as **Parent Category** and **Subcategory**.
    
 ### Time Format Challenge
-   The Second challenge was the time. The data was orignally using **Unix timestamp**, which was not human readable format. By utilizing the converting formula I          changed the time format into human readable and added two more columns as **Date Created Conversion** and **Date Ended Conversion**. 
+   The Second challenge was the time. The data was orignally using **Unix timestamp**, which was not human readable format. By utilizing the converting formula I          changed the time format into human readable and added two more columns as **Date Launced Conversion** and **Date Ended Conversion**. 
    
 ## Year
-   Also with the help of 'Date Created Conversion" column i extracted the year of the projects which can give a quick review to Louse about how many project took place    in same years. 
+   Also with the help of 'Date Launched Conversion" column i extracted the year of the projects which can give a quick review to Louse about how many project took        place in same years. 
+   
    
  
    
