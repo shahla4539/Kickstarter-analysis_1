@@ -66,10 +66,9 @@ Filter on country for "US"
 Filter on outcome for "failed."
 Similarly, I saved this data in the new sheet and named it **Failed US Kickstarters**.
 
+### Descriptive Statistics
+I added another sheet **Descriptive Statistics** to show the calculation by using the data from the two new sheets Successful US Kickstarters and Failed US Kickstarters.I calculated Central Tendency that includes **Mean, Median, and Mode**, of the data from Goal and Pledged column. To help Louise for further analysis I measure the spread of the dataset that includes range, variance, standard deviation, and quartiles.
 
-
-
-I added another sheet **Descriptive Statistics** to show the calculation.
 
 
   
