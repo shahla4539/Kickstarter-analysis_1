@@ -73,13 +73,13 @@ The whole dataset has a lot of unrelevent information. I added multiple filters 
 
 ## Results
 
+After looking at the data and chart for Outcomes Based On Launch date, I can determine that theater is a popular and successful type of campaign overall. By using filters, I can see theater`s overall trend there is a spike successful campaigns launched in June, but that decreases by the end of the year. Therefore the best month for Louise to Launch her play can be  **June**.
+
+
+
+
+
 Louise set budget for her play **Fever** is more than twice to the average successful Kickstarters goal.
-The best Month for her to launch her play is **June** based on the Analysis of Outcomes based on launch dates.
-
-
-
-
-
 
 
 
