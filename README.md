@@ -79,6 +79,9 @@ After looking at the data and chart for **Outcomes Based On Launch date** I conc
 
 * My conclusion on **Outcomes Based on the Goal** is that the highest number of Successful Campaign had a budget between $1000 and $4000 and a success rate is 73%. While on the other side, the budget range from $10,000 to $15,000, has a failure rate of 46%. Therefore the ideal budget to set for Lousie play is between $1000 and $4000. Since Louise set asking budget for her play **Fever** $12,000 which is more than twice to the average successful Kickstarters goal there is a increased chances of failure. My recommendation is to lower the budget.
 
+### Limitations
+Kichstarter data has a very minimum information about international campaigns for Louse to understand the trend globaly. It mainly provided data on US based plays.
+
 
 
   
