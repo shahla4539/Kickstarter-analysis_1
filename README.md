@@ -69,7 +69,7 @@ Lastly, I organized a data to give Louise information on outcomes based on the G
 * The Category and Subcategoy were mergeg. I used Excel tool **Convert text to Column Wizard** to split them.  
 The new column (Average Donation) I created had errors, so I fixed them in order to present a clean analysis to Louise. For that i used Excel IFERROR formula,
  **=IFERROR(value,value_if_error)**
-The whole dataset has a lot of unrelevent information. I added multiple filters to enable Louise search for her required information and also added visual presentation.
+I added multiple filters to enable Louise ignore the irrelevant information and search for her required information and also added visual presentation.
 
 ## Results
 
@@ -82,7 +82,8 @@ After looking at the data and chart for **Outcomes Based On Launch date** I conc
 ### Limitations
 Kichstarter data has a very minimum information about international campaigns for Louse to understand the trend globaly. It mainly provided data on US based plays.
 
-I would recommend to also find out what type of campaigns people like to pledge for. To do so, a table can be created 
+### Possible Graph
+With this dataset, Pie Chart can also be created to add more visualization for number of succesful, failed and cancelled campaigns over the year.
 
   
 
