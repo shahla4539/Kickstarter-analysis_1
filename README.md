@@ -73,14 +73,11 @@ The whole dataset has a lot of unrelevent information. I added multiple filters 
 
 ## Results
 
-After looking at the data and chart for Outcomes Based On Launch date I concluded that:
+After looking at the data and chart for **Outcomes Based On Launch date** I concluded that:
 * Theater is the most popular and successful type of campaign overall. By using filters, I found that theater has the highest number of successful launched campaigns among all categories. 
 * In the overall trend that theater follows, I can see there is a spike of successful campaigns launched in June, but that decreases by the end of the year. Therefore the best month for Louise to Launch her play can be  **June**.
 
-
-
-
-
+* My conclusion on **Outcomes Based on the Goal** is that the highest number of Successful Campaign had a budget between $1000 and $4000 and a success rate is 73%. While on the other side, the budget range from $10,000 to $15,000, has a failure rate of 46%. Therefore the ideal budget to set for Lousie play is between $1000 and $4000.
 Louise set budget for her play **Fever** is more than twice to the average successful Kickstarters goal.
 
 
