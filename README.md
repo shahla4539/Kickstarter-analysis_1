@@ -54,20 +54,9 @@ Louise had the opportunity to attend and enjoy the five plays at **Edinburgh Fes
 ## Statistical Computations
 Statistics provide an unbiased view of the data and make conclusions based on the calculations and the real facts. To Help Louise deepen her analysis I started with filtering the Kickstarter data. I will Kickstarter campaigns for plays in the U.S. and compare the statistics for the campaigns that succeeded versus those that failed.
 
-### Successful US Kickstarters
-Filter on subcategory for "plays."
-Filter on country for "US"
-Filter on outcome for "successful."
-I create this filtered Kickstarter data and saved it in the new sheet which I named **Successful US Kickstarters**.
-
-### Failed US Kickstarters
-Filter on subcategory for "plays."
-Filter on country for "US"
-Filter on outcome for "failed."
-Similarly, I saved this data in the new sheet and named it **Failed US Kickstarters**.
-
 ### Descriptive Statistics
-I added another sheet **Descriptive Statistics** to show the calculation by using the data from the two new sheets Successful US Kickstarters and Failed US Kickstarters.I calculated Central Tendency that includes **Mean, Median, and Mode**, and comapred the Mean and median for each dataset's (the failed and successful "US" campaigns) goal and pledged columns. To help Louise for further analysis I measure the spread of the dataset that includes **range, variance, standard deviation, and quartiles**. These calculations helped Louise in realizing that she is asking for more than twice the average successful Kickstarter goal, which isn't great news for her campaign.
+
+I added another sheet named **Descriptive Statistics** to show the calculation by using the data from the **Kickstarters**.I calculated Central Tendency that includes **Mean, Median, and Mode**, and comapred the Mean and Median by filtering data so that i can obtain the Successful US Kickstarters data  and Failed US KIckstarters data. To help Louise for further analysis I measure the spread of the dataset that includes **range, variance, standard deviation, and quartiles**. These calculations helped Louise in determining  that she is asking for more than twice the average successful Kickstarter goal, which is not in favor of her campaign.
 
 ## Outcomes Based On Goal
 Lastly, I organized a data to give Louise information on outcomes based on the Goal. For that I **Rearranged** the **Goal** by giving a range of $5000 in each row, and based on that I utilized **COUNTIFS** formula to pull the the data of Number Successful, Number Failed and Number Cancelled. I added a column for **Total Project** and also added **Percentages** of Number Successful, Number Failed and Number Canceled accordingly. I also create a line chart to visualize the relationship between the goal-amount ranges and the percentage of successful, failed, or canceled projects.
@@ -84,7 +73,7 @@ The whole dataset has a lot of unrelevent information. I added multiple filters 
 
 ## Results
 
-Louise set budget for her play **Fever** is more than twice average successful Kickstarter goal.
+Louise set budget for her play **Fever** is more than twice to the average successful Kickstarters goal.
 The best Month for her to launch her play is **June** based on the Analysis of Outcomes based on launch dates.
 
 
