@@ -82,7 +82,7 @@ After looking at the data and chart for **Outcomes Based On Launch date** I conc
 ### Limitations
 Kichstarter data has a very minimum information about international campaigns for Louse to understand the trend globaly. It mainly provided data on US based plays.
 
-
+I would recommend to also find out what type of campaigns people like to pledge for. To do so, a table can be created 
 
   
 
